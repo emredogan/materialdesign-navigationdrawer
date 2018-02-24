@@ -2,5 +2,5 @@
 
 Screenshot
 
-![Screenshot](navigationdrawerss.png | width=100)
+![Screenshot](navigationdrawerss.png)
 
