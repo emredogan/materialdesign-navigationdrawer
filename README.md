@@ -1,6 +1,6 @@
 # materialdesign-navigationdrawer
 
-Screenshot
+Implementation of a material design component: Navigation Drawer <br/>
+https://material.io/components/navigation-drawer
 
-![Screenshot](navigationdrawerss.png)
-
+<img src="navigationdrawerss.png" width="300">
