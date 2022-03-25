@@ -1,6 +1,3 @@
 # materialdesign-navigationdrawer
 
-Screenshot
-
-![Screenshot](navigationdrawerss.png)
-
+<img src="navigationdrawerss.png" width="300">
